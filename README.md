@@ -17,4 +17,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div width="100%" align="center"><a href="https://github.com/BenakaParashuram/Brain-Buddy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BenakaParashuram&repo=Brain-Buddy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-
